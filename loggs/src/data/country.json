@@ -1,0 +1,1178 @@
+{
+        "0": {
+            "id": 0,
+            "name": "Afghanistan",
+            "type": "Repubblica Islamica dell'Afghanistan",
+            "sigla": "AF"
+        },
+        "1": {
+            "id": 1,
+            "name": "Albania",
+            "type": "Repubblica d'Albania",
+            "sigla": "AL"
+        },
+        "2": {
+            "id": 2,
+            "name": "Algeria",
+            "type": "Repubblica Popolare Democratica Algerina",
+            "sigla": "DZ"
+        },
+        "3": {
+            "id": 3,
+            "name": "Andorra",
+            "type": "Principato di Andorra",
+            "sigla": "AD"
+        },
+        "4": {
+            "id": 4,
+            "name": "Angola",
+            "type": "Repubblica dell'Angola",
+            "sigla": "AO"
+        },
+        "5": {
+            "id": 5,
+            "name": "Antigua e Barbuda",
+            "type": "Antigua e Barbuda",
+            "sigla": "AG"
+        },
+        "6": {
+            "id": 6,
+            "name": "Arabia Saudita",
+            "type": "Regno dell'Arabia Saudita",
+            "sigla": "SA"
+        },
+        "7": {
+            "id": 7,
+            "name": "Argentina",
+            "type": "Repubblica Argentina",
+            "sigla": "AR"
+        },
+        "8": {
+            "id": 8,
+            "name": "Armenia",
+            "type": "Repubblica di Armenia",
+            "sigla": "AM"
+        },
+        "9": {
+            "id": 9,
+            "name": "Australia",
+            "type": "Commonwealth dell'Austria",
+            "sigla": "AU"
+        },
+        "10": {
+            "id": 10,
+            "name": "Austria",
+            "type": "Repubblica d'Austria",
+            "sigla": "AT"
+        },
+        "11": {
+            "id": 11,
+            "name": "Azerbaigian",
+            "type": "Repubblica dell'Azerbaigian",
+            "sigla": "AZ"
+        },
+        "12": {
+            "id": 12,
+            "name": "Bahamas",
+            "type": "Commonwealth delle Bahamas",
+            "sigla": "BS"
+        },
+        "13": {
+            "id": 13,
+            "name": "Bahrain",
+            "type": "Regno del Bahrain",
+            "sigla": "BH"
+        },
+        "14": {
+            "id": "14",
+            "name": "Bangladesh",
+            "type": "Repubblica Popolare del Bangladesh",
+            "sigla": "BD"
+        },
+        "15": {
+            "id": 15, 
+            "name": "Barbados",
+            "type": "",
+            "sigla": "BB"
+        },
+        "16": {
+            "id": 16,
+            "name": "Belgio",
+            "type": "Regno del Belgio",
+            "sigla": "BE"
+        },
+        "17": {
+            "id": 17,
+            "name": "Belize",
+            "type": "",
+            "sigla": "BZ"
+        },
+        "18": {
+            "id": 18,
+            "name": "Benin",
+            "type": "Repubblica del Benin",
+            "sigla": "BJ"
+        },
+        "19": {
+            "id": 19,
+            "name": "Bhutan",
+            "type": "Regno del Bhutan",
+            "sigla": "BT"
+        },
+        "20": {
+            "id": 20,
+            "name": "Bielorussia",
+            "type": "Repubblica di Bielorussia",
+            "sigla": "BY"
+        },
+        "21": {
+            "id": 21,
+            "name": "Bolivia",
+            "type": "Stato Plurinazionale di bolivia",
+            "sigla": "BO"
+        },
+        "22": {
+            "id": 22,
+            "name": "Bosnia ed Erzeovina",
+            "type": "",
+            "sigla": "BA"
+        },
+        "23": {
+            "id": 23,
+            "name": "Botswana",
+            "type": "Repubblica del Botswana",
+            "sigla": "BW"
+        },
+        "24": {
+            "id": 24,
+            "name": "Brasile",
+            "type": "Repubblica Federale del Brasile",
+            "sigla": "BR"
+        },
+        "25": {
+            "id": 25,
+            "name": "Brunei",
+            "type": "Stato del Brunei, Dimora della Pace",
+            "sigla": "BN"
+        },
+        "26": {
+            "id": 26,
+            "name": "Bulgaria",
+            "type": "Repubblica di Bulgaria",
+            "sigla": "BG"
+        },
+        "27": {
+            "id": 27,
+            "name": "Burkina Faso",
+            "type": "",
+            "sigla": "BF"
+        },
+        "28": {
+            "id": 28,
+            "name": "Burundi",
+            "type": "Repubblica del Burundi",
+            "sigla": "BI"
+        },
+        "29": {
+            "id": 29,
+            "name": "Cambogia",
+            "type": "Repubblica della Cambogia",
+            "sigla": "KH"
+        },
+        "30": {
+            "id": 30,
+            "name": "Camerun",
+            "type": "Repubblica del Camerun",
+            "sigla": "CM"
+        },
+        "31": {
+            "id": 31,
+            "name": "Canada",
+            "type": "",
+            "sigla": "CA"
+        },
+        "32": {
+            "id": 32,
+            "name": "Capo Verde",
+            "type": "Repubblica di Capo Verde",
+            "sigla": "CV"
+        },
+        "33": {
+            "id": 33,
+            "name": "Ciad",
+            "type": "Repubblica del Ciad",
+            "sigla": "TD"
+        },
+        "34": {
+            "id": 34,
+            "name": "Cile",
+            "type": "Repubblica del Cile",
+            "sigla": "CL"
+        },
+        "35": {
+            "id": 35,
+            "name": "Cina",
+            "type": "Repubblica Popolare Cinese",
+            "sigla": "CN"
+        },
+        "36": {
+            "id": 36,
+            "name": "Cipro",
+            "type": "Repubblica di Cipro",
+            "sigla": "CY"
+        },
+        "37": {
+            "id": 37,
+            "name": "Cittá del Vaticano",
+            "type": "Stato della Cittá del Vaticano",
+            "sigla": "VA"
+        },
+        "38": {
+            "id": 38,
+            "name": "Colombia",
+            "type": "Repubblica di Colombia",
+            "sigla": "CO"
+        },
+        "39": {
+            "id": 39,
+            "name": "Comore",
+            "type": "Unione delle Comore",
+            "sigla": "KM"
+        },
+        "40": {
+            "id": 40,
+            "name": "Corea del Nord",
+            "type": "Repubblica Democratica Popolare di Corea",
+            "sigla": "KP"
+        },
+        "41": {
+            "id": 41,
+            "name": "Corea del Sud",
+            "type": "Repubblica di Corea",
+            "sigla": "KR"
+        },
+        "42": {
+            "id": 42,
+            "name": "Costa d'Avorio",
+            "type": "Repubblica della Costa d'Avorio",
+            "sigla": "CI"
+        },
+        "43": {
+            "id": 43,
+            "name": "Costa Rica",
+            "type": "Repubblica di Costa Rica",
+            "sigla": "CR"
+        },
+        "44": {
+            "id": 44,
+            "name": "Croazia",
+            "type": "Repubblica di Croazia",
+            "sigla": "HR"
+        },
+        "45": {
+            "id": 45,
+            "name": "Cuba",
+            "type": "Repubblica di Cuba",
+            "sigla": "CU"
+        },
+        "46": {
+            "id": 46,
+            "name": "Danimarca",
+            "type": "Repubblica di Danimarca",
+            "sigla": "DK"
+        },
+        "47": {
+            "id": 47,
+            "name": "Dominica",
+            "type": "Commonwealth di Dominica",
+            "sigla": "DM"
+        },
+        "48": {
+            "id": 48,
+            "name": "Ecuador",
+            "type": "Repubblica dell'Ecuador",
+            "sigla": "EC"
+        },
+        "49": {
+            "id": 49,
+            "name": "Egitto",
+            "type": "Repubblica Araba d'Egitto",
+            "sigla": "EG"
+        },
+        "50": {
+            "id": 50,
+            "name": "El Salvador",
+            "type": "Repubblica di El Salvador",
+            "sigla": "SV"
+        },
+        "51": {
+            "id": 51,
+            "name": "Emirati Arabi Uniti",
+            "type": "",
+            "sigla": "AE"
+        },
+        "52": {
+            "id": 52,
+            "name": "Eritrea",
+            "type": "",
+            "sigla": "ER"
+        },
+        "53": {
+            "id": 53,
+            "name": "Estonia",
+            "type": "",
+            "sigla": "EE"
+        },
+        "54": {
+            "id": 54,
+            "name": "Etiopia",
+            "type": "Repubblica Democratica Federale d'Etiopia",
+            "sigla": "ET"
+        },
+        "55": {
+            "id": 55,
+            "name": "Figi",
+            "type": "Repubblica delle Isole Figi",
+            "sigla": "FJ"
+        },
+        "56": {
+            "id": 56,
+            "name": "Filippine",
+            "type": "Repubblica delle Filippine",
+            "sigla": "PH"
+        },
+        "58": {
+            "id": 58,
+            "name": "Finlandia",
+            "type": "Repubblica di Finlandia",
+            "sigla": "FI"
+        },
+        "59": {
+            "id": 59,
+            "name": "Francia",
+            "type": "Repubblica Francese",
+            "sigla": "FR"
+        },
+        "60": {
+            "id": 60,
+            "name": "Gabon",
+            "type": "Repubblica Gabonese",
+            "sigla": "GA"
+        },
+        "61": {
+            "id": 61,
+            "name": "Gambia",
+            "type": "Repubblica del Gambia",
+            "sigla": "GM"
+        },
+        "62": {
+            "id": 62,
+            "name": "Georgia",
+            "type": "",
+            "sigla": "GE"
+        },
+        "63": {
+            "id": 63,
+            "name": "Germania",
+            "type": "Repubblica Federale di Germania",
+            "sigla": "DE"
+        },
+        "64": {
+            "id": 64,
+            "name": "Ghana",
+            "type": "Repubblica del Ghana",
+            "sigla": "GH"
+        },
+        "65": {
+            "id": 65,
+            "name": "Giamaica",
+            "type": "",
+            "sigla": "JM"
+        },
+        "66": {
+            "id": 66,
+            "name": "Giappone",
+            "type": "", 
+            "sigla": "JP"
+        },
+        "67": {
+            "id": 67,
+            "name": "Gibuti",
+            "type": "Repubblica di Gibuti",
+            "sigla": "DJ"
+        },
+        "68": {
+            "id": 68,
+            "name": "Giordania",
+            "type": "Regno Hascemita di Giordania",
+            "sigla": "JO"
+        },
+        "69": {
+            "id": 69,
+            "name": "Grecia",
+            "type": "",
+            "sigla": "GR"
+        },
+        "70": {
+            "id": 70,
+            "name": "Grenada",
+            "type": "",
+            "sigla": "GD" 
+        },
+        "71": {
+            "id": 71,
+            "name": "Guatemala",
+            "type": "Repubblica del Guatemala",
+            "sigla": "GT"
+        },
+        "72": {
+            "id": 72,
+            "name": "Guinea",
+            "type": "Repubblica di Guinea",
+            "sigla": "GN"
+        },
+        "73": {
+            "id": 73,
+            "name": "Guinea-Bissau",
+            "type": "Repubblica di Guinea-Bissau",
+            "sigla": "GW"
+        },
+        "74": {
+            "id": 74,
+            "name": "Guinea Equatoriale",
+            "type": "Repubblica della Guinea Equatoriale",
+            "sigla": "GQ"
+        },
+        "75": {
+            "id": 75,
+            "name": "Guyana",
+            "type": "Repubblica Cooperativa della Guyana",
+            "sigla": "GY"
+        },
+        "76": {
+            "id": 76,
+            "name": "Haiti",
+            "type": "Repubblica di Haiti",
+            "sigla": "HT"
+        },
+        "77": {
+            "id": 77,
+            "name": "Honduras",
+            "type": "Repubblica dell'Honduras",
+            "sigla": "HN"
+        },
+        "78": {
+            "id": 78,
+            "name": "India",
+            "type": "Repubblica dell'India",
+            "sigla": "IN"
+        },
+        "79": {
+            "id": 79,
+            "name": "Indonesia",
+            "type": "Repubblica dell'Indonesia",
+            "sigla": "ID"
+        },
+        "81": {
+            "id": 81,
+            "name": "Iran",
+            "type": "Repubblica Islamica dell'Iran",
+            "sigla": "IR"
+        },
+        "82": {
+            "id": 82,
+            "name": "Iraq",
+            "type": "Repubblica dell'Iraq",
+            "sigla": "IQ"
+        },
+        "83": {
+            "id": 83,
+            "name": "Irlanda",
+            "type": "Repubblica d'Irlanda",
+            "sigla": "IE"
+        },
+        "84": {
+            "id": 84,
+            "name": "Islanda",
+            "type": "Repubblica d'Islanda",
+            "sigla": "IS"
+        },
+        "85": {
+            "id": 85,
+            "name": "Isola Marshall",
+            "type": "Repubblica delle Isola Marshall",
+            "sigla": "MH"
+        },
+        "86": {
+            "id": 86,
+            "name": "Isole Salomone",
+            "type": "",
+            "sigla": "SB"
+        },
+        "87": {
+            "id": 87,
+            "name": "Israele",
+            "type": "Stato d'Israele",
+            "sigla": "IL"
+        },
+        "88": {
+            "id": 88,
+            "name": "Italia",
+            "type": "Repubblica Italiana",
+            "sigla": "IT"
+        },
+        "89": {
+            "id": 89,
+            "name": "Kazakistan",
+            "type": "Repubblica del Kazakistan",
+            "sigla": "KZ"
+        },
+        "90": {
+            "id": 90,
+            "name": "Kenya",
+            "type": "Repubblica del Kenya",
+            "sigla": "KE"
+        },
+        "91": {
+            "id": 91,
+            "name": "Kirghizistan",
+            "type": "Repubblica del Kirghizistan",
+            "sigla": "KG"
+        },
+        "92": {
+            "id": 92,
+            "name": "Kiribati",
+            "type": "Repubblica di Kiribati",
+            "sigla": "KI"
+        },
+        "93": {
+            "id": 93,
+            "name": "Kuwait",
+            "type": "Stato del Kuwait",
+            "sigla": "KW"
+        },
+        "94": {
+            "id": 94,
+            "name": "Laos",
+            "type": "Repubblica Popolare Democratica del Laos",
+            "sigla": "LA"
+        },
+        "95": {
+            "id": 95,
+            "name": "Lesotho",
+            "type": "Regno del Lesotho",
+            "sigla": "LS"
+        },
+        "96": {
+            "id": 96,
+            "name": "Lettonia",
+            "type": "Repubblica di Lettonia",
+            "sigla": "LV"
+        },
+        "97": {
+            "id": 97,
+            "name": "Libano",
+            "type": "Repubblica Libanese",
+            "sigla": "LB"
+        },
+        "98": {
+            "id": 98,
+            "name": "Liberia",
+            "type": "Repubblica  di Liberia",
+            "sigla": "LR"
+        },
+        "99": {
+            "id": 99,
+            "name": "Libia",
+            "type": "Stato della Libia",
+            "sigla": "LY"
+        },
+        "100": {
+            "id": 100,
+            "name": "Liechtenstein",
+            "type": "Principato del Liechtenstein",
+            "sigla": "LI"
+        },
+        "101": {
+            "id": 101,
+            "name": "Lituania",
+            "type": "Repubblica di Lituania",
+            "sigla": "LT"
+        },
+        "102": {
+            "id": 102,
+            "name": "Lussemburgo",
+            "type": "Granducato di Lussemburgo",
+            "sigla": "LU"
+        },
+        "103": {
+            "id": 103,
+            "name": "Macedonia",
+            "type": "Repubblica di Macedonia",
+            "sigla": "MK"
+        },
+        "104": {
+            "id": 104,
+            "name": "Madagascar",
+            "type": "Repubblica del Madagascar",
+            "sigla": "MG"
+        },
+        "105": {
+            "id": 105,
+            "name": "Malawi",
+            "type": "Repubblica di Malawi",
+            "sigla": "MW"
+        },
+        "106": {
+            "id": 106,
+            "name": "Maldive",
+            "type": "Repubblica delle Maldive",
+            "sigla": "MV"
+        },
+        "107": {
+            "id": 107,
+            "name": "Malesia",
+            "type": "", 
+            "sigla": "MY" 
+        },
+        "108": {
+            "id": 108,
+            "name": "Mali",
+            "type": "Repubblica del Mali",
+            "sigla": "ML"
+        },
+        "109": {
+            "id": 109,
+            "name": "Malta",
+            "type": "Repubblica di Malta",
+            "sigla": "MT"
+        },
+        "110": {
+            "id": 110,
+            "name": "Marocco",
+            "type": "Regno del Marocco",
+            "sigla": "MA"
+        },
+        "111": {
+            "id": 111,
+            "name": "Mauritania",
+            "type": "Repubblica Islamica della Mauritania",
+            "sigla": "MR"
+        },
+        "112": {
+            "id": 112,
+            "name": "Mauritius",
+            "type": "Repubblica di Mautitius",
+            "sigla": "MU"
+        },
+        "113": {
+            "id": 113,
+            "name": "Messico",
+            "type": "Stati Uniti Messicani",
+            "sigla": "MX"
+        },
+        "114": {
+            "id": 114,
+            "name": "Micronesia",
+            "type": "Stati Federati di Micronesia",
+            "sigla": "FM"
+        },
+        "115": {
+            "id": 115,
+            "name": "Moldavia",
+            "type": "Repubblica Moldava",
+            "sigla": "MD"
+        },
+        "116": {
+            "id": 116,
+            "name": "Monaco",
+            "type": "Principato di Monaco",
+            "sigla": "MC"
+        },
+        "117": {
+            "id": 117,
+            "name": "Mongolia",
+            "type": "",
+            "sigla": "MN"
+        },
+        "118": {
+            "id": 118,
+            "name": "Montenegro",
+            "type": "Repubblica del Montenegro",
+            "sigla": "ME"
+        },
+        "119": {
+            "id": 119,
+            "name": "Mozambico",
+            "type": "Repubblica del Mozambico",
+            "sigla": "MZ"
+        },
+        "120": {
+            "id": 120,
+            "name": "Muanmar o Birmania",
+            "type": "Repubblica dell'Unione del Myanmar",
+            "sigla": "MM"
+        },
+        "121": {
+            "id": 121,
+            "name": "Namibia",
+            "type": "Repubblica della Namibia",
+            "sigla": "NA"
+        },
+        "122": {
+            "id": 122,
+            "name": "Nauru",
+            "type": "Repubblica di Nauru",
+            "sigla": "NR"
+        },
+        "123": {
+            "id": 123,
+            "name": "Nepal",
+            "type": "Repubblica Federale Democratica del Nepal",
+            "sigla": "NP"
+        },
+        "124": {
+            "id": 124,
+            "name": "Nicaragua",
+            "type": "Repubblica del Nicaragua",
+            "sigla": "NI"
+        },
+        "125": {
+            "id": 125,
+            "name": "Niger",
+            "type": "Repubblica del Niger",
+            "sigla": "NE"
+        },
+        "126": {
+            "id": 126,
+            "name": "Nigeria",
+            "type": "Repubblica Federale della Nigeria",
+            "sigla": "NG"
+        },
+        "127": {
+            "id": 127,
+            "name": "Norvegia",
+            "type": "Regno di Norvegia",
+            "sigla": "NO"
+        },
+        "128": {
+            "id": 128,
+            "name": "Nuova Zelanda",
+            "type": "",
+            "sigla": "NZ"
+        },
+        "129": {
+            "id": 129,
+            "name": "Oman",
+            "type": "Sultanato di Oman",
+            "sigla": "OM"
+        },
+        "130": {
+            "id": 130,
+            "name": "Paesi Bassi",
+            "type": "Regno dei Paesi Bassi",
+            "sigla": "NL"
+        },
+        "131": {
+            "id": 131,
+            "name": "Pakistan",
+            "type": "Repubblica Islamica del Pakistan",
+            "sigla": "PK"
+        },
+        "132": {
+            "id": 132,
+            "name": "Palau",
+            "type": "Repubblica di Palau",
+            "sigla": "PW"
+        },
+        "133": {
+            "id": 133,
+            "name": "Palestina",
+            "type": "Stato di Palestina",
+            "sigla": "PS"
+        },
+        "134": {
+            "id": 134,
+            "name": "Panama",
+            "type": "Repubblica di Panamá",
+            "sigla": "PA"
+        },
+        "135": {
+            "id": 135,
+            "name": "Papua Nuova Guinea",
+            "type": "Stato Indipendente della Papua Nuova Guinea",
+            "sigla": "PG"
+        },
+        "136": {
+            "id": 136,
+            "name": "Paraguay",
+            "type": "Repubblica del Paraguay",
+            "sigla": "PY"
+        },
+        "137": {
+            "id": 137,
+            "name": "Perú",
+            "type": "Repubblica del Perú",
+            "sigla": "PE"
+        },
+        "138": {
+            "id": 138,
+            "name": "Polonia",
+            "type": "Repubblica di Polonia",
+            "sigla": "PL"
+        },
+        "139": {
+            "id": 139,
+            "name": "Portogallo",
+            "type": "Repubblica Portoghese",
+            "sigla": "PT"
+        },
+        "140": {
+            "id": 140,
+            "name": "Qatar",
+            "type": "Stato Del Qatar",
+            "sigla": "QA"
+        },
+        "141": {
+            "id": 141,
+            "name": "Regno Unito",
+            "type": "Regno Unito di Gran Bretagna e Irlanda del Nord",
+            "sigla": "GB"
+        },
+        "142": {
+            "id": 142,
+            "name": "Repubblica Ceca",
+            "type": "",
+            "sigla": "CZ"
+        },
+        "143": {
+            "id": 143,
+            "name": "Repubblica Centrafricana",
+            "type": "Repubblica Centrafricana",
+            "sigla": "CF"
+        },
+        "144": {
+            "id": 144,
+            "name": "Repubblica del Congo",
+            "type": "",
+            "sigla": "CG"
+        },
+        "145": {
+            "id": 145,
+            "name": "Repubblica Democratica del Congo",
+            "type": "",
+            "sigla": "CD"
+        },
+        "146": {
+            "id": 146,
+            "name": "Repubblica Dominicana",
+            "type": "",
+            "sigla": "DO"
+        },
+        "147": {
+            "id": 147,
+            "name": "Romania",
+            "type": "", 
+            "sigla": "RO"
+        },
+        "148": {
+            "id": 148,
+            "name": "Ruanda",
+            "type": "Repubblica del Ruanda",
+            "sigla": "RW"
+        },
+        "149": {
+            "id": 149,
+            "name": "Russia",
+            "type": "Federazione Russa",
+            "sigla": "RU"
+        },
+        "150": {
+            "id": 150,
+            "name": "Saint Kitts e Navis",
+            "type": "Federazione di Saint Christopher e Nevis",
+            "sigla": "KN"
+        },
+        "151": {
+            "id": 151,
+            "name": "Saint Vicent e Grenadine",
+            "type": "",
+            "sigla": "VC"
+        },
+        "152": {
+            "id": 152,
+            "name": "Samoa",
+            "type": "Stato INdipendente di Samoa",
+            "sigla": "WS"
+        },
+        "153": {
+            "id": 153,
+            "name": "San Marino",
+            "type": "Serenissima Repubblica di San Marino",
+            "sigla": "SM"
+        },
+        "154": {
+            "id": 154,
+            "name": "Santa Lucia",
+            "type": "",
+            "sigla": "LC"
+        },
+        "155": {
+            "id": 155,
+            "name": "São Tomé e Príncipe",
+            "type": "Repubblica Democratica di São Tomé e Príncipe",
+            "sigla": "ST"
+        },
+        "156": {
+            "id": 156,
+            "name": "Senegal",
+            "type": "Repubblica del Senegal",
+            "sigla": "SN"
+        },
+        "157": {
+            "id": 157,
+            "name": "Serbia",
+            "type": "Repubblica di Serbia",
+            "sigla": "RS"
+        },
+        "158": {
+            "id": 158,
+            "name": "Seychelles",
+            "type": "Repubblica delle Seychelles",
+            "sigla": "SC"
+        },
+        "159": {
+            "id": 159,
+            "name": "Sierra Leone",
+            "type": "Repubblica della Sierra Leone",
+            "sigla": "SL"
+        },
+        "160": {
+            "id": 160,
+            "name": "Singapore",
+            "type": "Repubblica di Singapore",
+            "sigla": "SG"
+        },
+        "162": {
+            "id": 162,
+            "name": "Siria",
+            "type": "Repubblica Araba di Siria",
+            "sigla": "SY"
+        },
+        "163": {
+            "id": 163,
+            "name": "Slovacchia",
+            "type": "Repubblica Slovacca",
+            "sigla": "SK"
+        },
+        "164": {
+            "id": 164,
+            "name": "Slovenia",
+            "type": "Repubblica di Slovenia",
+            "sigla": "SI"
+        },
+        "165": {
+            "id": 165,
+            "name": "Somalia",
+            "type": "",
+            "sigla": "SO"
+        },
+        "166": {
+            "id": 166,
+            "name": "Spagna",
+            "type": "Regno di Spana",
+            "sigla": "ES"
+        },
+        "167": {
+            "id": 167,
+            "name": "Sri Lanka",
+            "type": "Repubblica Democratica Socialista dello Sri Lanka",
+            "sigla": "LK"
+        },
+        "168": {
+            "id": 168,
+            "name": "Stati Uniti",
+            "type": "Statu Uniti d'America",
+            "sigla": "US"
+        },
+        "169": {
+            "id": 169,
+            "name": "Sudafrica",
+            "type": "Repubblica del Sudafrica",
+            "sigla": "ZA"
+        },
+        "170": {
+            "id": 170,
+            "name": "Sudan",
+            "type": "Repubblica del Sudan",
+            "sigla": "SD"
+        },
+        "171": {
+            "id": 171,
+            "name": "Sudan del Sud",
+            "type": "Repubblica del Sudan del Sud",
+            "sigla": "SS"
+        },
+        "172": {
+            "id": 172,
+            "name": "Suriname",
+            "type": "Repubblica del Suriname",
+            "sigla": "SR"
+        },
+        "173": {
+            "id": 173,
+            "name": "Svezia",
+            "type": "Regno di Svezia",
+            "sigla": "SE"
+        },
+        "174": {
+            "id": 174,
+            "name": "Svizzera",
+            "type": "Confederazione Svizzera",
+            "sigla": "CH"
+        },
+        "175": {
+            "id": 175,
+            "name": "Swaziland",
+            "type": "Regno dello Swaziland",
+            "sigla": "SZ"
+        },
+        "176": {
+            "id": 176,
+            "name": "Tagikistan",
+            "type": "Repubblica del Tagikistan",
+            "sigla": "TJ"
+        },
+        "177": {
+            "id": 177,
+            "name": "Taiwan",
+            "type": "Repubblica di Cina",
+            "sigla": "TW"
+        },
+        "178": {
+            "id": 178,
+            "name": "Tanzania",
+            "type": "Repubblica Unita di Tanzania",
+            "sigla": "TZ"
+        },
+        "179": {
+            "id": 179,
+            "name": "Thailandia",
+            "type": "Regno di Thailandia",
+            "sigla": "TH"
+        },
+        "180": {
+            "id": 180,
+            "name": "Timor Est",
+            "type": "Repubblica Democratica di Timor Est",
+            "sigla": "TL"
+        },
+        "181": {
+            "id": 181,
+            "name": "Togo",
+            "type": "Repubblica Togolese",
+            "sigla": "TG"
+        },
+        "182": {
+            "id": 182,
+            "name": "Tonga",
+            "type": "Regno di Tonga",
+            "sigla": "TO"
+        },
+        "183": {
+            "id": 183,
+            "name": "Trinidad e Tobago",
+            "type": "Repubblica di Trinidad e Tobago",
+            "sigla": "TT"
+        },
+        "184": {
+            "id": 184,
+            "name": "Tunisia",
+            "type": "Repubblica Turca",
+            "sigla": "TN"
+        },
+        "185": {
+            "id": 185,
+            "name": "Turchia",
+            "type": "Repubblica Turca",
+            "sigla": "TR"
+        },
+        "186": {
+            "id": 186,
+            "name": "Turkmenistan",
+            "type": "",
+            "sigla": "TM"
+        },
+        "187": {
+            "id": 187,
+            "name": "Tuvalu",
+            "type": "",
+            "sigla": "TV"
+        },
+        "188": {
+            "id": 188,
+            "name": "Ucraina",
+            "type": "Ucraina",
+            "sigla": "UA"
+        },
+        "189": {
+            "id": 189,
+            "name": "Uganda",
+            "type": "Repubblica dell'Uganda",
+            "sigla": "UG"
+        },
+        "190": {
+            "id": 190,
+            "name": "Ungheria",
+            "type": "",
+            "sigla": "HU"
+        },
+        "191": {
+            "id": 191,
+            "name": "Uruguay",
+            "type": "Repubblica Orientale dell'Uruguay",
+            "sigla": "UY"
+        },
+        "192": {
+            "id": 192,
+            "name": "Uzbekistan",
+            "type": "Repubblica dell'Uzbekistan",
+            "sigla": "UZ"
+        },
+        "193": {
+            "id": 193,
+            "name": "Venuatu",
+            "type": "Repubblica di Venuatu",
+            "sigla": "VU"
+        },
+        "194": {
+            "id": 194,
+            "name": "Venezuela",
+            "type": "Repubblica Boliviana del Venezuela",
+            "sigla": "VE"
+        },
+        "195": {
+            "id": 195,
+            "name": "Vietnam",
+            "type": "Repubblica Socialista del Vietnam",
+            "sigla": "VN"
+        },
+        "196": {
+            "id": 196,
+            "name": "Yemen",
+            "type": "Repubblica dello Yemen",
+            "sigla": "YE"
+        },
+        "197": {
+            "id": 197,
+            "name": "Zambia",
+            "type": "Repubblica dello Zambia",
+            "sigla": "ZM"
+        },
+        "198": {
+            "id": 198,
+            "name": "Zimbabwe",
+            "type": "Repubblica dello Zimbabwe",
+            "sigla": "ZW"
+        }
+}
